@@ -77,9 +77,9 @@ Place them in models/checkpoints/ after downloading.
 ## 🖼️ Example Results
 
 Here are a few sample generations from the project:
-| Prompt	                                               |       Output |
-|-------------------------------------------------------|--------------|
-|“A futuristic city at night, ultra-realistic, neon”	  |              |
+| Prompt	                                               |                                        Output                                                       |
+|-------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+|“A futuristic city at night, ultra-realistic, neon”	  | Sample_Image [https://drive.google.com/file/d/16dINIIiC1t1C0GDLXgwSZgvsBpbWYCEd/view?usp=drive_link]|             |
 
 ---
 
